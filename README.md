@@ -4,4 +4,4 @@ H23-204-Gr1
 ### Faire de commits
 
 # Travail en équpe
-
+<img src="img_girl.jpg" alt="Girl in a jacket">
