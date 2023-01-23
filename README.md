@@ -4,4 +4,4 @@ H23-204-Gr1
 ### Faire de commits
 
 # Travail en équpe
-<img src="img_girl.jpg" alt="Girl in a jacket">
+<img src="https://tenor.com/fr/view/tate-andrew-tate-tate-bugatti-gif-26102951" alt="Girl in a jacket">
