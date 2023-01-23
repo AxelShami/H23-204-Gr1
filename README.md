@@ -5,7 +5,7 @@ H23-204-Gr1
 
 # Travail en équpe
 
- #circle {
+ # circle {
       width: 50px;
       height: 50px;
       -webkit-border-radius: 25px;
