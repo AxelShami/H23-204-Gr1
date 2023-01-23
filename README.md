@@ -6,4 +6,3 @@ H23-204-Gr1
 # Travail en équpe
 <img src="https://media.tenor.com/J4I2zzKrV4UAAAAd/tate-andrew-tate.gif" alt="Girl in a jacket">
 
-https://media.tenor.com/J4I2zzKrV4UAAAAd/tate-andrew-tate.gif
